@@ -1,4 +1,4 @@
-# About this page
+# About
 - I'm not the truth owner, I can't say if a site is fake or not
 - Some link here can be down
 
@@ -32,15 +32,12 @@
 - [**Fresh Onions**](http://freshonifyfe4rmuh6qwpsexfhdrww7wnt5qmkoertwxmcuvm4woo4ad.onion/)
 - [**OnionLinks**](http://s4k4ceiapwwgcm3mkb6e4diqecpo7kvdnfr5gg7sph7jjppqkvwwqtyd.onion/)
 - [**Sanatório**](http://i346ynyrc4wo3aatdzacvqgrry7ew6k6ziq26gqgwbubah4ohlqhz7id.onion/) **[BR]**
-- [**TOR LINKS**](http://torlinkswwqg3lwt.onion/)
 
 ## SEARCHERS
 - [**Deep Search**](http://search7tdrcvri22rieiwgi5g46qnwsesvnubqav2xakhezv4hjzkkad.onion/)
 - [**Exacator**](http://2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion/)
 - [**Phobos**](http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/)
 - [**TORCH**](xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd/) **[Best one]**
-
-<br>
 
 # FILES
 ## LIBRARIES
@@ -54,8 +51,6 @@
 
 ## LINKS (of files :P)
 - [**ChatTor/links**](http://chattorwozgwecrzzbchyhvxiyomny6jn4ac2njc22ozgwg42bhtupad.onion/links)
-
-<br>
 
 # UTILS
 - [**Nitter**](https://nitter.net/ChatTor_) - *Not a Deep Web link it's useful to view twitter links when needed*
@@ -90,8 +85,6 @@
 ### TEMP EMAIL
 - [**CS.EMAIL**](http://csmail3thcskmzvjicww3qdkvrhb6pb5s7zjqtb3gdst6guby2stsiqd.onion/)
 
-<BR>
-
 # SOCIALS
 ## COMMUNICATION
 - [**Ableonion**](http://notbumpz34bgbz4yfdigxvd6vzwtxc3zpt5imukgl6bvip2nikdmdaad.onion/) - Talk to strangers
@@ -104,6 +97,7 @@
 
 ## ASK & ANSWER
 - [**Deep Answers**](http://deeptyspkdq3nfvqvyzbkgwhtok4qoyhypsyiuo24wux4jnb6e3nyiqd.onion/) **[BR]**
+- [**Respostas Ocultas**](http://xh6liiypqffzwnu5734ucwps37tn2g6npthvugz3gdoqpikujju525yd.onion/) **[BR]**
 - [**Hidden Answers**](http://answerszuvs3gg2l64e6hmnryudl5zgrmwm3vh65hzszdghblddvfiqd.onion/)
 
 ## CHAT ROOM
@@ -135,27 +129,27 @@
 - [**Picochan**](http://picochanwvqfa2xsrfzlul4x4aqtog2eljll5qnj5iagpbhx2vmfqnid.onion/)
 - [**rchan**](http://rchanqqfochp5jj6cxswzvyzh764r4xr47n3shz3ezhbqpedqgidsyad.onion/) **[BR]**
 
-<br>
+# RADIOS
+- [**Deep Web Radio**](http://anonyradixhkgh5myfrkarggfnmdzzhhcgoy2v66uf7sml27to5n2tid.onion/)
+- [**Deep Web Radio**](http://36dwyem5bugap623kjfidvzx37tyyppnwzjvc37lpfrgwvag67ue3vqd.onion/)
+- [**Nihilism**](http://lain.nihilisxacas2ntt3kb2nzfjp4nu5enratyehvahllblxgq2tqpsrnid.onion/)
 
 # BLACK MARKET
 ## SCAM REPORT
 - [**Live Onion**](http://ue5sfh6yl74zon64c2swxomyojsyipiunod5w3eyhwt3ft6ladtgflad.onion/)
 
-<br>
-
 # OTHER 
 - [**Bible4u**](http://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion/) - No censour bible
-- [**Deep Web Radio**](http://anonyradixhkgh5myfrkarggfnmdzzhhcgoy2v66uf7sml27to5n2tid.onion/)
-- [**dir**](http://j4fm33wlq3aj74zsl4loi7k7b5l3i6bmhjtwlfhd2n47y3wxt7fjuayd.onion/) - A bunch of files, may be interesting
 - [**Invidious**](http://c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion/) - Youtube like
 - [**Time To Confess**](http://shhhhdf5x43cc55nez54t74ffnllrmrnxy64zecdxzxkjzizvyez6pyd.onion/)
 - [**The Permanent Booru**](https:/owmvhpxyisu6fgd7r2fcswgavs7jly4znldaey33utadwmgbbp4pysad.onion/)
 - [**Qubes OS**](http://qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion/) - A reasonably secure operating system
 - [**Whonix**](http://www.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/) - Software that can anonymize everything you doonline
 
-<!-- http://xh6liiypqffzwnu5734ucwps37tn2g6npthvugz3gdoqpikujju525yd.onion/ -->
 
-<footer>
-	**Last update:** *12/04/2023*
-	**Author:** *Vako*
-</footer>
+<hr>
+
+**Last update:** *20/04/2023*<br>
+**Author:** *Vako*
+
+<hr>
